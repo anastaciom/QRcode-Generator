@@ -5,7 +5,7 @@
        git clone: https://github.com/menezes11/QRcode-Generator.git
 
 ## Enter the project folder:
-        cd qrcodeGenerator
+        cd QRcode-Generator
 
 ##  Install the dependencies:
         npm install
