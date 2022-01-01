@@ -2,7 +2,7 @@
 
 ## **If you want to run the project on your machine, follow the step by step below:**
 ##  In the terminal, clone the project:
-       git clone: https://github.com/menezes11/QRcode-Generator.git
+       git clone: https://github.com/anastaciom/QRcode-Generator.git
 
 ## Enter the project folder:
         cd QRcode-Generator
